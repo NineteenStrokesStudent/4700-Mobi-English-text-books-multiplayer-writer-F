@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45821268-e937-449d-b1a3-db70fc42aa2e</dc:identifier>
+        <dc:title>This side of paradise</dc:title>
+        <dc:creator opf:file-as="Fitzgerald, F. Scott" opf:role="aut">F. Scott Fitzgerald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1948-08-15T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+AMORY ELAINE inherited from his Brother every trait, except the stray inexpressible few, that made him worth while. His father, an ineffectual, inarticulate man with a taste for Byron and a. habit of drowsing over the Encyclopeadia Britannica, grew wealthy at thirty through .the death of two elder brothers, successful Chicago brokers, and in the first flush of feeling that the world was his, went to Bar Harbor and met Beatnce'Q'Hara. In consequence, Stephen Blaine handed down to posterity his height of just under six feet and his tendency to waver at crucial moments, these two abstractions appearing in his son Amory. For ,many years he hovered in the background of his family's life, an unasser ... tive figure with a face haJf-obliterated by lifeless, silky hair, continually occupied in H taking care" of his wife, continually haxassed by the idea. that he didn't and couldn't understand her. But Deatrice Blaine! There was a woman! Early pictures taken on her fath
+
+
+
+**Table of Contents** 
+
+
+
+CONTENTS; BOOK ONE: THE ROl-lANTIC EGOTIST; C!IAl'Tn I!ACR r AMORY, SON OF BEATRICE 3; 11 SPIRES AND GARGOYLES ? ? ? ? ? 41; lIT '!HE EGOTIST CONSIDERS 99; IV NARCISSUS OFF Dtrr'Y 131; [INTEiLUDE: MAY, 1917-FEBRUARY, 1919]; BOOK TWO: THE EDUCATION OF A PERSONAGE; ClJ~R PAC!:; 1 THE D ''"BUTANTE ? ? ? ? ? ? ? ? ? 179; II EXPERIMENTS m CONVALESCENCE; -; 212; III YOUNG IRONY ? ? ? ? ? ? ? ; IV ThE SUPERCILIOUS SACRIFICE; V TnE EGOTIST BECOMES A PERSONAGE
+
+
+
+**About the Publisher** 
+
+
+
+Forgotten Books is a publisher of historical writings, such as: Philosophy, Classics, Science, Religion, History, Folklore and Mythology.
+
+
+
+Forgotten Books' Classic Reprint Series utilizes the latest technology to regenerate facsimiles of historically important writings. Careful attention has been made to accurately preserve the original format of each page whilst digitally enhancing the diffic</dc:description>
+        <dc:publisher>C. Scribner's Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781440044250</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-14T01:57:01.274000+00:00" name="calibre:timestamp"/>
+        <meta content="This side of paradise" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

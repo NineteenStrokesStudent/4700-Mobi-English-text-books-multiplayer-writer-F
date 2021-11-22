@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b010c9a2-dd4e-4410-b4d8-a19fda6a09d6</dc:identifier>
+        <dc:title>Hosts</dc:title>
+        <dc:creator opf:file-as="Wilson, F. Paul" opf:role="aut">F. Paul Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-31T09:45:07.705000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Repairman Jack returns in a sequel to the New York Times bestseller, The Tomb! Repairman Jack has been tearing up the urban adventure scene ever since he was introduced in the New York Times bestseller The Tomb . As his fans know, Repairman Jack doesn't deal with electronic appliances; he's a situation fixer, no matter how weird or deadly a situation may be. Repairman Jack has no last name, no Social Security number, and no qualms when it comes to getting the job done'even if it means putting himself in serious danger. After fifteen years of separation, Jack is contacted by his long-lost sister, Kate, to help her track down the source of her girlfriend Jeanette's sudden trance-like behavior. Referred by a mysterious stranger who gives only Jack's name and phone number, Kate is shocked to find out that the "repairman" she seeks is none other than her little brother'and not altogether happy to find out what little "Jackie" has been doing with himself for all these years. With Jack leading the way, Kate finds out that Jeannette's behavior can be traced back to the experimental therapy she underwent for a brain tumor: now Jeannette's brain and those of several other subjects are infected by a mutated virus. Like any good virus, it wants to multiply'and if Jack can't stop the virus in its path, there will be deadly results. Meanwhile, Jack is traveling on the 9 train when suddenly a passenger goes berserk and starts shooting at random'leaving Jack no choice but to throw himself into the spotlight by putting the shooter down. Worse for Jack, one of his fellow passengers is a reporter for the local tabloid, The Light , who sees Jack's heroism as his ticket to journalistic stardom. The reporter promises to make Jack a celebrity hero, a household name'which could mean the end of Repairman Jack as we know him.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780812561661</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Repairman Jack" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-12T16:57:43.470000+00:00" name="calibre:timestamp"/>
+        <meta content="Hosts" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

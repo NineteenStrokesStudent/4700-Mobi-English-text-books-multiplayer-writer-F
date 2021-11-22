@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4333b08f-bdfb-429c-92e2-6bcb7c0110da</dc:identifier>
+        <dc:title>Every Day in Tuscany: Seasons of an Italian Life</dc:title>
+        <dc:creator opf:file-as="Mayes, Frances" opf:role="aut">Frances Mayes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-08T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+In this sequel to her* New York Times* bestsellers* Under the Tuscan Sun* and* Bella Tuscany*, the celebrated "bard of Tuscany" (*New York Times*) lyrically chronicles her continuing, two decades-long love affair with Tuscany's people, art, cuisine, and lifestyle. Frances Mayes offers her readers a deeply personal memoir of her present-day life in Tuscany, encompassing both the changes she has experienced since* Under the Tuscan Sun* and* Bella Tuscany* appeared, and sensuous, evocative reflections on the timeless beauty and vivid pleasures of Italian life. Among the themes Mayes explores are how her experience of Tuscany dramatically expanded when she renovated and became a part-time resident of a 13th century house with a stone roof in the mountains above Cortona, how life in the mountains introduced her to a "wilder" side of Tuscany--and with it a lively  engagement with Tuscany's mountain people. Throughout, she reveals the concrete joys of life in her adopted hill town, with particular attention to life in the piazza, the art of Luca Signorelli (Renaissance painter from Cortona), and the pastoral pleasures of feasting from her garden.  Moving always toward a deeper engagement, Mayes writes of Tuscan icons that have become for her storehouses of memory, of crucible moments from which bigger ideas emerged, and of the writing life she has enjoyed in the room where* Under the Tuscan Sun* began. With more on the pleasures of life at* Bramasole*, the delights and challenges of living in Italy day-to-day and favorite recipes,* Every Day in Tuscany* is a passionate and inviting account of the richness and complexity of Italian life.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780767929820</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T04:18:18.693000+00:00" name="calibre:timestamp"/>
+        <meta content="Every Day in Tuscany: Seasons of an Italian Life" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Travel&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
